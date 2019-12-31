@@ -1,0 +1,37 @@
+article_title: Title 1
+article_description: {{
+Lorem ipsum dolor sit amet, conse ctetuer. Duis autem vemeu iriure dolor adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat wisi enim. Lorem ipsum dolor sit amet, conse ctetuer. 
+}}
+article_file: article1.html
+article_class: post-1
+article_image: img/stubbs.jpg
+article_image_alt: stubbs' horse
+article_small_image: img/stubbs_small.jpg
+article_code_lang_part1: ha
+article_code_lang_part2: skell
+article_body: {{
+                        <p>
+                        body of the first article
+                        </p>
+                        <br>
+                        <blockquote>
+                          citation...
+                        </blockquote>
+                        <br>
+                        <p> 
+                          bla bla
+[[code: cs
+                          //commento
+                          if (variable == true)
+                          {
+                            bool test = false;
+                            string a = '{';
+                          }
+]]
+
+                        </p>
+                        <h2>a sub-title...</h2>
+                        <p>
+                          conclusion!
+                        </p>
+}}

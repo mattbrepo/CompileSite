@@ -1,0 +1,14 @@
+article_title: about
+article_description: about page
+article_file: about.html
+article_class: post-3
+article_image: img/articolo1.jpg
+article_image_alt: myself
+article_small_image:
+article_code_lang_part1: my
+article_code_lang_part2: self
+article_body: {{
+<p>
+Hi! ...
+</p>
+}}

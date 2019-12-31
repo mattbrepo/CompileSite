@@ -1,0 +1,14 @@
+site_title: my site
+site_title_formatted: my<span>site</span>
+site_description: a collection of coding experiments
+site_keywords: code,developer,c++,c#,haskell,python
+site_subtitle: a collection of coding experiments
+site_side_image: img/img.jpg
+site_side_image_alt: side image...
+site_side_title: side bar title
+site_side_body: side bar
+site_footer: footer...
+article_list: {{
+article1
+article2
+}}

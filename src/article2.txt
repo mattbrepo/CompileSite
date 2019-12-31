@@ -1,0 +1,26 @@
+article_title: Title 2
+article_description: bla bla ...
+article_file: article2.html
+article_class: post-2
+article_image: img/stubbs.jpg
+article_image_alt: stubbs' horse
+article_small_image: img/stubbs_small.jpg
+article_code_lang_part1: c
+article_code_lang_part2: ++
+article_body: {{
+<p>
+bla bla
+</p>
+<br>
+<blockquote>
+bla bla
+</blockquote>
+<br>
+<p> 
+bla bla
+</p>
+<h2>sub-title</h2>
+<p>
+conclusion!
+</p>
+}}
